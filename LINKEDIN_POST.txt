@@ -1,0 +1,21 @@
+🚀 Excited to share my latest Machine Learning project: AdVision AI — Marketing Mix Modeling with Polynomial Regression! (Capstone-03)
+
+In real-world marketing, spending an extra $10,000 on advertising doesn't produce an infinite linear return. Beyond a certain threshold, channels hit diminishing returns and ad saturation. At the same time, running TV and radio together often creates compounding synergy.
+
+I built an interactive end-to-end Machine Learning web application using Python, Scikit-Learn, and Streamlit to address this exact marketing challenge.
+
+🔍 Key Highlights:
+• Polynomial Regression (Degree 2) selected via 5-Fold Cross Validation on training data (R² = 95.33% vs 90.59% for Linear Regression).
+• Mathematically proven diminishing returns on TV (negative quadratic term TV² = -2.69).
+• Cross-channel synergy captured via the positive interaction term (TV × Radio = +1.39).
+• AI Budget Allocator: Utilizes Sequential Least Squares Programming (SLSQP) to find the global revenue-maximizing budget split for any target spend — delivering up to +23% sales lift for the exact same budget!
+• Interactive 3D Response Surface & Marginal Sales Derivatives to identify overspending tipping points.
+• Instant sensitivity analysis & downloadable prediction plans.
+
+🛠 Tech Stack:
+Python | Scikit-Learn | Streamlit | Plotly | Pandas | NumPy | Scipy Optimize
+
+Check out the code and app architecture on GitHub:
+[Insert GitHub Link]
+
+#MachineLearning #DataScience #MarketingAnalytics #PolynomialRegression #Python #Streamlit #ScikitLearn #AI #MarketingMixModeling

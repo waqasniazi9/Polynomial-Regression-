@@ -1,0 +1,21 @@
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / Archives
+*.zip
+*.tar.gz
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
